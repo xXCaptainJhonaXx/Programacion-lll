@@ -5,11 +5,11 @@ import java.text.ParseException;
 public class Main {
     public static void main(String[] args) {
 
-        try {
+        /*try {
             Estudiante[] estudiante = new Estudiante[18];
             estudiante[0] =new Estudiante("Fabrizzio")
         } catch (ParseException e) {
             e.printStackTrace();
-        }
+        } */
     }
 }
